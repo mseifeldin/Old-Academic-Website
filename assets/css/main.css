@@ -1577,13 +1577,7 @@
 			border-bottom-color: transparent;
 			color: #560b0b !important;
 		}
-		a:link {
-    text-decoration: none;
-}
-
-a:visited {
-    text-decoration: none;
-}
+		
 
 	strong, b {
 		color: #777;
